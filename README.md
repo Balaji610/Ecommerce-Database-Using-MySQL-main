@@ -1,3 +1,3 @@
-Ecommerce Database
+Ecommerce Database Using MySql
 
 Author Balaji
